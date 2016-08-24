@@ -1,0 +1,12 @@
+.page-header
+{
+    .card-action
+    {
+        padding: 0;
+    }
+
+    .card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating)
+    {
+        color: $color-white;
+    }
+}
